@@ -17,6 +17,7 @@ Displaying all books and users
 
 
 2. System Design
+
 2.1 Components:
 Book Class: Represents a book with attributes such as title, author, ISBN, and issued status.
 User Class: Represents a user with attributes such as name, userID, and borrowed books.
@@ -28,6 +29,7 @@ Unordered Map: Used for quick retrieval of books and users by ISBN and userID, r
 
 
 3. Testing
+
 3.1 Test Cases:
 Adding Books:
 
@@ -56,10 +58,12 @@ Result: Passed
 
 
 4. Conclusion
+
 The Library Management System effectively manages library operations, demonstrating proficiency in C++ programming and data structures. The system is robust, user-friendly, and ensures efficient management of books and users.
 
 
-6. Future Enhancements
+5. Future Enhancements
+
 Implement search functionality for books and users.
 Add support for removing books and users.
 Develop a graphical user interface (GUI) for better user interaction.
