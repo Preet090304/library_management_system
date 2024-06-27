@@ -4,6 +4,7 @@ The Library Management System is designed to manage the operations of a library,
 
 
 1. Introduction
+
 1.1 Objective:
 To develop a simple yet functional Library Management System using C++ that demonstrates core concepts of object-oriented programming and data structures.
 
